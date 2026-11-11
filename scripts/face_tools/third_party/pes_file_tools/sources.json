@@ -1,0 +1,8 @@
+{
+  "fpk.py": "https://raw.githubusercontent.com/the4chancup/pes-file-tools/master/lib/pes_file_tools/fpk.py",
+  "ftex.py": "https://raw.githubusercontent.com/the4chancup/pes-file-tools/master/lib/pes_file_tools/ftex.py",
+  "FmdlFile.py": "https://raw.githubusercontent.com/the4chancup/pes-fmdl-blender/master/pes-fmdl/FmdlFile.py",
+  "zlib.py": "https://raw.githubusercontent.com/the4chancup/pes-file-tools/master/lib/pes_file_tools/zlib.py",
+  "cpk.py": "https://raw.githubusercontent.com/the4chancup/pes-file-tools/master/lib/pes_file_tools/cpk.py",
+  "crilayla.py": "https://raw.githubusercontent.com/the4chancup/pes-file-tools/master/lib/pes_file_tools/crilayla.py"
+}

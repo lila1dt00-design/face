@@ -1,0 +1,9 @@
+{
+  "_default": { "eyeCentering": true },
+
+  "Neymar_2022_White_Hair": {
+    "eyeOffsetMm": [0, 0.5, 0],
+    "eyeScale": 1.0,
+    "faceLength": 1.04
+  }
+}
